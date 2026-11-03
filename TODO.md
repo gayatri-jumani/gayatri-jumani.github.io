@@ -1,4 +1,5 @@
-# TODO: placeholders to fill in
+# TODO
 
-- [ ] School tuition fees (FAQ "What are the fees?", shown on every page). Search for `[ADD:` in the `.html` files.
+No required placeholders remain (search for `[ADD:` in the `.html` files to confirm).
+
 - [ ] Optional: add a PIN code to the address in the JSON-LD in `index.html`.
